@@ -1,0 +1,1 @@
+command=self.face_recog,
